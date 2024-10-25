@@ -1,7 +1,7 @@
 import torch
 import numpy as np
 import pandas as pd
-from task.ET.model.SA import Attention
+from code.SA import Attention
 import os
 
 def data_norm(data):
