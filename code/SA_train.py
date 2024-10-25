@@ -4,7 +4,7 @@ import torch.utils.data as Data
 from torch.utils.data import DataLoader
 import torch.nn as nn
 import pandas as pd
-from task.ET.model.SA import Attention
+from code.SA import Attention
 # from ET.MS_Rain_Attention import MSMT_LE
 import math
 import os
