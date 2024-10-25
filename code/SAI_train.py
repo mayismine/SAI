@@ -4,7 +4,7 @@ import torch.utils.data as Data
 from torch.utils.data import DataLoader
 import torch.nn as nn
 import pandas as pd
-from task.ET.model.SAI import MSMT_LE
+from code.SAI import MSMT_LE
 import math
 import os
 from sklearn.metrics import mean_squared_error
