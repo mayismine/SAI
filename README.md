@@ -1,4 +1,4 @@
-# Physics-informed deep-learning model for mitigating spatiotemporal imbalances in FLUXNET2015 global evapotranspiration data
+# Estimation and mechanism analysis of global evapotranspiration based on a physics-informed deep-learning model
 
 These are code and data implementations.
 
@@ -113,3 +113,4 @@ If you have any questions, please contact xutr@bnu.edu.cn or submit an issue.
 We appreciate the following repo for their code:
 - https://github.com/Kyubyong/transformer
 - https://github.com/xutr-bnu/TCH_method
+
